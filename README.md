@@ -46,7 +46,7 @@
 
 📧 **Email:** [sathiyasjothi1002@gmail.com](mailto:sathiyasjothi1002@gmail.com)  
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-🌐 **Portfolio (if available):** [yourwebsite.com](#)  
+🌐 **Portfolio (if available):** [yourwebsite.com](https://satyasjyoti.netlify.app/)  
 
 ---
 
